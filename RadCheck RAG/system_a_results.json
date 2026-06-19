@@ -1,0 +1,209 @@
+[
+  {
+    "report_id": 1,
+    "report": "Patient is status post total abdominal hysterectomy and bilateral salpingo-oophorectomy. A 4 cm complex cystic lesion is seen within the right ovary.",
+    "expected_label": 1,
+    "predicted_label": 1,
+    "overall_confidence": 0.3333333333333333,
+    "latency_sec": 87.99601908700015,
+    "error": null
+  },
+  {
+    "report_id": 2,
+    "report": "History of bilateral total knee arthroplasty. Severe tricompartmental osteoarthritis and joint space narrowing are seen in the native right knee.",
+    "expected_label": 1,
+    "predicted_label": 1,
+    "overall_confidence": 0.0,
+    "latency_sec": 69.24050878900016,
+    "error": null
+  },
+  {
+    "report_id": 3,
+    "report": "Status post right radical nephrectomy. Mild hydronephrosis is identified in the right kidney.",
+    "expected_label": 1,
+    "predicted_label": 1,
+    "overall_confidence": 0.0,
+    "latency_sec": 72.76788382999985,
+    "error": null
+  },
+  {
+    "report_id": 4,
+    "report": "The patient has a known history of complete thyroidectomy. The thyroid gland is symmetrically enlarged and heterogenous.",
+    "expected_label": 1,
+    "predicted_label": 1,
+    "overall_confidence": 0.0,
+    "latency_sec": 130.66749432000006,
+    "error": null
+  },
+  {
+    "report_id": 5,
+    "report": "History of left lower lobectomy. Expected postsurgical changes are present with volume loss and elevation of the left hemidiaphragm. The remaining left lung parenchyma is clear.",
+    "expected_label": 0,
+    "predicted_label": 0,
+    "overall_confidence": 1.0,
+    "latency_sec": 96.32248366000022,
+    "error": null
+  },
+  {
+    "report_id": 6,
+    "report": "There is no pulmonary edema. Prominent bibasilar reticular opacities are stable and chronic, consistent with the patient's known idiopathic pulmonary fibrosis.",
+    "expected_label": 0,
+    "predicted_label": 0,
+    "overall_confidence": 1.0,
+    "latency_sec": 169.47371530500004,
+    "error": null
+  },
+  {
+    "report_id": 7,
+    "report": "Lungs are clear of acute consolidation. The previously seen right apical cavitary lesion has been surgically resected, with stable postoperative scarring and surgical clips now seen.",
+    "expected_label": 0,
+    "predicted_label": 0,
+    "overall_confidence": 1.0,
+    "latency_sec": 66.47615372400014,
+    "error": null
+  },
+  {
+    "report_id": 8,
+    "report": "No acute intracranial hemorrhage or major vascular occlusion. Severe, confluent periventricular white matter hypoattenuation is noted, reflecting chronic small vessel ischemic disease.",
+    "expected_label": 0,
+    "predicted_label": 0,
+    "overall_confidence": 1.0,
+    "latency_sec": 190.7372902029997,
+    "error": null
+  },
+  {
+    "report_id": 9,
+    "report": "No acute cardiopulmonary process. There is a new, large right-sided pneumothorax with mild leftward mediastinal shift compared to the prior radiograph.",
+    "expected_label": 1,
+    "predicted_label": 1,
+    "overall_confidence": 0.3333333333333333,
+    "latency_sec": 55.27849923800022,
+    "error": null
+  },
+  {
+    "report_id": 10,
+    "report": "The chest is radiographically stable. Interval development of moderate pulmonary edema and bilateral pleural effusions is noted since the examination yesterday.",
+    "expected_label": 1,
+    "predicted_label": 0,
+    "overall_confidence": 1.0,
+    "latency_sec": 177.9798812009999,
+    "error": null
+  },
+  {
+    "report_id": 11,
+    "report": "No acute findings are identified on today's study. There is a new, acute compression fracture of the L4 vertebral body with 50% height loss.",
+    "expected_label": 1,
+    "predicted_label": 1,
+    "overall_confidence": 0.0,
+    "latency_sec": 45.456561421999595,
+    "error": null
+  },
+  {
+    "report_id": 12,
+    "report": "No acute cardiopulmonary process. Stable, chronic right-sided pleural thickening is noted, unchanged since the prior study from 2018.",
+    "expected_label": 0,
+    "predicted_label": 0,
+    "overall_confidence": 1.0,
+    "latency_sec": 42.726128206999874,
+    "error": null
+  },
+  {
+    "report_id": 13,
+    "report": "No acute osseous abnormality. Old, well-healed wedge compression deformity of T12 is unchanged from multiple prior comparisons.",
+    "expected_label": 0,
+    "predicted_label": 0,
+    "overall_confidence": 1.0,
+    "latency_sec": 50.796377020000364,
+    "error": null
+  },
+  {
+    "report_id": 14,
+    "report": "It cannot be definitively stated that there is no underlying mass, though none is visible on the current non-contrast study. Lungs are otherwise clear.",
+    "expected_label": 0,
+    "predicted_label": 0,
+    "overall_confidence": 1.0,
+    "latency_sec": 152.36512125200034,
+    "error": null
+  },
+  {
+    "report_id": 15,
+    "report": "There is no radiologic evidence to exclude a tiny radiolucent foreign body, however, no opaque foreign body is definitively seen on this film.",
+    "expected_label": 0,
+    "predicted_label": 0,
+    "overall_confidence": 1.0,
+    "latency_sec": 43.86790838200022,
+    "error": null
+  },
+  {
+    "report_id": 16,
+    "report": "I am entirely unable to see any evidence of an acute fracture on this study. A displaced, acute spiral fracture of the distal radius is clearly visualized.",
+    "expected_label": 1,
+    "predicted_label": 1,
+    "overall_confidence": 0.0,
+    "latency_sec": 66.2828044910002,
+    "error": null
+  },
+  {
+    "report_id": 17,
+    "report": "We cannot rule out a subtle developing infiltrate in the clinical setting of fever; however, the lungs are completely opacified by massive bilateral effusions.",
+    "expected_label": 1,
+    "predicted_label": 1,
+    "overall_confidence": 0.0,
+    "latency_sec": 99.12236147300018,
+    "error": null
+  },
+  {
+    "report_id": 18,
+    "report": "An azygos lobe variant is present in the right upper lung zone, created by the lateral downward invagination of the azygos vein. Lungs are clear.",
+    "expected_label": 0,
+    "predicted_label": 1,
+    "overall_confidence": 0.7666666666666666,
+    "latency_sec": 225.37011583499998,
+    "error": null
+  },
+  {
+    "report_id": 19,
+    "report": "A horseshoe kidney is noted, crossing the midline inferiorly to fuse at the lower poles. Both kidneys are entirely separate and located in their normal independent retroperitoneal anatomical positions.",
+    "expected_label": 1,
+    "predicted_label": 1,
+    "overall_confidence": 0.0,
+    "latency_sec": 98.13470514500023,
+    "error": null
+  },
+  {
+    "report_id": 20,
+    "report": "Uterus didelphys is incidentally noted, demonstrating two distinct uterine horns and two cervices, consistent with the known Mullerian duct anomaly.",
+    "expected_label": 0,
+    "predicted_label": 0,
+    "overall_confidence": 0.7,
+    "latency_sec": 89.64689562600051,
+    "error": null
+  },
+  {
+    "report_id": 21,
+    "report": "The patient has a known right-sided aortic arch. The descending thoracic aorta is seen normally traversing the left side of the spine.",
+    "expected_label": 1,
+    "predicted_label": 0,
+    "overall_confidence": 0.85,
+    "latency_sec": 121.97648186199967,
+    "error": null
+  },
+  {
+    "report_id": 22,
+    "report": "The appendix is normal in caliber without evidence of acute appendicitis. A severely inflamed, dilated, and perforated appendix is surrounded by inflammatory stranding.",
+    "expected_label": 1,
+    "predicted_label": 1,
+    "overall_confidence": 0.0,
+    "latency_sec": 140.00182074299937,
+    "error": null
+  },
+  {
+    "report_id": 23,
+    "report": "The endotracheal tube is in good position. The tip of the endotracheal tube is currently located in the right mainstem bronchus, resulting in complete collapse of the left lung.",
+    "expected_label": 1,
+    "predicted_label": 1,
+    "overall_confidence": 0.3333333333333333,
+    "latency_sec": 69.94423300299968,
+    "error": null
+  }
+]
